@@ -20,6 +20,21 @@ The Evaluation Benchmark Standard aims to address these issues by providing a un
 - Simple integration: AI models and LLMs can easily integrate with the EBS by implementing a simple `.evalbench.json` file that adheres to the standardized format.
 - Comprehensive coverage: The EBS aims to cover a wide range of tasks, including embeddings, classifications, generation, hallucinations, multimodal, and more, providing a comprehensive evaluation framework for AI models.
 
+## Call for Proposals
+
+If you are interested in contributing to the Evaluation Benchmark Standard, please [submit your ideas and suggestions](https://github.com/theaifatherco/eval-bench-standard/discussions/new?category=ideas).
+
+## Roadmap
+
+To successfully implement the Evaluation Benchmark Standard, the following steps need to be taken:
+
+1. Define the standardized format: Collaborate with the AI community to define a comprehensive and flexible format for representing evaluation benchmarks.
+2. Develop the centralized repository: Create a centralized repository to store and manage the standardized evaluation benchmarks.
+3. Engage with benchmark providers: Reach out to existing evaluation benchmark providers and encourage them to adopt the standardized format.
+4. Build tooling and documentation: Develop tools and documentation to facilitate the creation, submission, and utilization of standardized evaluation benchmarks.
+5. Foster community adoption: Promote the Evaluation Benchmark Standard within the AI community and encourage widespread adoption.
+
+
 ## Examples
 
 Here are a few examples of how the Evaluation Benchmark Standard can be applied:
@@ -171,15 +186,6 @@ Here are a few examples of how the Evaluation Benchmark Standard can be applied:
   }]
 }
 ```
-
-## Roadmap
-
-To successfully implement the Evaluation Benchmark Standard, the following steps need to be taken:
-
-1. Define the standardized format: Collaborate with the AI community to define a comprehensive and flexible format for representing evaluation benchmarks.
-2. Engage with benchmark providers: Reach out to existing evaluation benchmark providers and encourage them to adopt the standardized format.
-3. Build tooling and documentation: Develop tools and documentation to facilitate the creation, submission, and utilization of standardized evaluation benchmarks.
-4. Foster community adoption: Promote the Evaluation Benchmark Standard within the AI community and encourage widespread adoption.
 
 ## Conclusion
 
